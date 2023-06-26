@@ -17,8 +17,9 @@ Default port for front end - 3000
 2. Execute backend
    i. Go to directory where .jar is kept
    ii. execute - java -jar [jarfile.jar]
+   iii. It requires: openjdk: 17-jdk-alpine
 
-3. Execute front end
+4. Execute front end
    i. Go to directory where front end code is kept
    ii. execute - npm start
 
